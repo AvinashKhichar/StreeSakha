@@ -1,0 +1,46 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="960"
+    android:viewportHeight="960"
+    android:tint="?attr/colorControlNormal">
+
+  <!-- Left capsule bar -->
+  <path
+      android:fillColor="@android:color/white"
+      android:pathData="M200,800
+                        Q160,800 160,760
+                        L160,440
+                        Q160,400 200,400
+                        L280,400
+                        Q320,400 320,440
+                        L320,760
+                        Q320,800 280,800
+                        L200,800Z"/>
+
+  <!-- Center capsule bar -->
+  <path
+      android:fillColor="@android:color/white"
+      android:pathData="M420,800
+                        Q380,800 380,760
+                        L380,200
+                        Q380,160 420,160
+                        L540,160
+                        Q580,160 580,200
+                        L580,760
+                        Q580,800 540,800
+                        L420,800Z"/>
+
+  <!-- Right capsule bar -->
+  <path
+      android:fillColor="@android:color/white"
+      android:pathData="M680,800
+                        Q640,800 640,760
+                        L640,560
+                        Q640,520 680,520
+                        L760,520
+                        Q800,520 800,560
+                        L800,760
+                        Q800,800 760,800
+                        L680,800Z"/>
+</vector>
